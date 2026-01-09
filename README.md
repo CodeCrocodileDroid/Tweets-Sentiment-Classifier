@@ -19,3 +19,5 @@ A Python machine learning pipeline for classifying tweet sentiment (positive/neg
 ### Installation
 ```bash
 pip install pandas numpy scikit-learn nltk
+### dataset URL
+https://www.kaggle.com/datasets/kazanova/sentiment140
